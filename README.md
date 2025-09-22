@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou Manuel Cunjuca Jamba!
 
-<!--
-**manueljamba/manueljamba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Focado em **Desenvolvimento Full Stack**  
+🌱 Atualmente aprendendo: **MySQL | JavaScript | Python | Node.js | React | Prisma**  
+🚀 Buscando crescer na área de tecnologia e construir projetos reais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+- **Linguagens**: JavaScript, Python, SQL  
+- **Back-end**: Node.js, Express, Prisma  
+- **Front-end**: React, HTML, CSS  
+- **Banco de Dados**: MySQL, PostgreSQL  
+- **Outros**: Git & GitHub, VS Code
+
+---
+
+## 📊 Estatísticas do GitHub
+![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=manueljamba&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Como me encontrar
+- ✉️ Email: manueljamba224@gmail.com 
+- 💼 LinkedIn: https://github.com/manueljamba
+
+---
+
+⭐ Se gostar dos meus projetos, não esqueça de dar um **Star** nos repositórios!  
